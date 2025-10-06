@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://envfluids.github.io/sitemap.xml
+Sitemap: https://envfluids.github.io/al-folio/sitemap.xml
