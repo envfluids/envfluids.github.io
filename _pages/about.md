@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+_University of Chicago, Department of the Geophysical Sciences_
+
 We study extreme weather, climate change, geophysical turbulence, and scientific machine learning (ML) through the lens of multi-scale nonlinear dynamics. We integrate tools and concepts from nonlinear and climate dynamics, applied and computational math, and ML to gain a deeper theoretical understanding of these phenomena and to develop novel frameworks to predict them across the time and spatial scales. We are also interested in interdisciplinary collaborations that enable direct translation of fundamental advances in AI+science to address critical societal needs, particularly through our involvement with UChicago’s [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/research/aice-ai-for-climate/) and [Human-centered Weather Forecasts (HCF)](https://humancenteredforecasts.climate.uchicago.edu/) Initiative.
