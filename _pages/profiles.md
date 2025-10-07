@@ -27,7 +27,7 @@ profiles:
     content: about_hamid_pahlavan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Junior Fellow of Rice Academy</p>
+      <p>Research Scientist</p>
       <p>pahlavan@nwra.com</p>
   - align: right
     image: alex_wikner.jpeg
@@ -44,19 +44,19 @@ profiles:
       <p>Postdoctoral Fellow</p>
       <p>jfinkel@uchicago.edu</p>
   - align: right
-    image: rajat_masiwal.jpeg
-    content: about_rajat_masiwal.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Postdoctoral Researcher</p>
-      <p>rajatm@uchicago.edu</p>
-  - align: right
     image: jess_wan.jpg
     content: about_jess_wan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Climate Systems Engineering Initiative (CSEi) Postdoctoral Fellow</p>
       <p>jesswan@uchicago.edu</p>
+  - align: right
+    image: rajat_masiwal.jpeg
+    content: about_rajat_masiwal.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Postdoctoral Researcher</p>
+      <p>rajatm@uchicago.edu</p>
   - align: right
     image: karan_jakhar.jpg
     content: about_karan_jakhar.md
