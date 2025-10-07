@@ -6,6 +6,8 @@ nav: true
 nav_order: 5
 ---
 
+# Available Positions
+
 **Updated October 2024**: Multiple postdocs and research scientist positions on [AI weather forecasting across scales](https://pedram.rice.edu/files/2024/10/AIweather_Postdoc2024-1.pdf) (from daily to seasonal-to-seasonal).
 
 **Updated September 2024**: Our new group at The University of Chicago has multiple positions for Ph.D. students, postdoctoral fellows, and research scientists interested in working on multidisciplinary projects in the following general areas (and at their intersections)
