@@ -82,5 +82,4 @@ Visiting researcher (Summer 2019), High school student
 Visiting researcher (Summer 2019), High school student
 
 **Olivia Ye**  
-Visiting researcher (Summer 2022), High school student  
-
+Visiting researcher (Summer 2022), High school student
