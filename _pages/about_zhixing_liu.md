@@ -2,5 +2,4 @@
 
 [Google scholar](https://scholar.google.com/citations?user=OE0hcd4AAAAJ)
 
-Education:  
-University of California, Santa Barbara, B.S. Physics and Statistics, 2025
+University of California, Santa Barbara, B.S. Physics, B.S. Statistics, 2025
