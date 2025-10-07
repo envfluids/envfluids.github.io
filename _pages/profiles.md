@@ -37,6 +37,13 @@ profiles:
       <p>Schmidt AI in Science Postdoctoral Fellow</p>
       <p>awikner@uchicago.edu</p>
   - align: right
+    image: justin_finkle.jpeg
+    content: about_justin_finkle.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Postdoctoral Fellow</p>
+      <p>jfinkel@uchicago.edu</p>
+  - align: right
     image: rajat_masiwal.jpeg
     content: about_rajat_masiwal.md
     image_circular: false # crops the image to make it circular
