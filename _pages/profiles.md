@@ -72,6 +72,13 @@ profiles:
       <p>PhD Student</p>
       <p>lichuan@uchicago.edu</p>
   - align: right
+    image: anna_asch.jpeg
+    content: about_anna_asch.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>aasch@uchicago.edu</p>
+  - align: right
     image: prof_pic.jpg
     content: about_zhixing_liu.md
     image_circular: false # crops the image to make it circular
