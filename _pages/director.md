@@ -16,4 +16,3 @@ profiles:
       <p>Associate Professor, University of Chicago</p>
       <p>pedramh@uchicago.edu</p>
 ---
-
