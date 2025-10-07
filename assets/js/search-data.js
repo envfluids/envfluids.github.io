@@ -59,12 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-check-out-the-recording-of-the-talk-titled-integrating-physics-data-and-scientific-machine-learning-to-predict-climate-variability-and-extremes-which-was-given-as-a-part-of-the-aps-gpc-seminar-series",
+      },{id: "news-check-out-the-recording-of-the-talk-titled-integrating-physics-data-and-scientific-machine-learning-to-predict-climate-variability-and-extremes-which-was-given-as-a-part-of-the-aps-gpc-seminar-series",
           title: 'Check out the recording of the talk titled “Integrating physics, data and scientific...',
           description: "",
           section: "News",},{id: "news-check-out-the-paper-led-by-research-scientist-dr-qiang-sun-titled-can-ai-weather-models-predict-out-of-distribution-gray-swan-tropical-cyclones-published-at-pnas-the-paper-presents-controlled-experiments-showing-that-an-ai-weather-model-cannot-forecast-tropical-cyclones-stronger-than-anything-they-had-seen-in-the-training-set-i-e-they-cannot-extrapolate-however-the-ai-model-shows-promise-in-learning-from-strong-storms-in-one-region-and-forecasting-them-in-another-region-the-results-have-important-implications-for-the-current-ai-weather-models-and-climate-emulators",
