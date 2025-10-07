@@ -1,28 +1,83 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /team/
+title: team
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: qiang_sun.jpeg
+    content: about_qiang_sun.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+      <p>Research Scientist</p>
+      <p>qiangsun@uchicago.edu</p>
+  - align: right
+    image: hamid_pahlavan.jpg
+    content: about_hamid_pahlavan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Junior Fellow of Rice Academy</p>
+      <p>pahlavan@nwra.com</p>
+  - align: right
+    image: alex_wikner.jpeg
+    content: about_alex_wikner.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Schmidt AI in Science Postdoctoral Fellow</p>
+      <p>awikner@uchicago.edu</p>
+  - align: right
+    image: jess_wan.jpg
+    content: about_jess_wan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Climate Systems Engineering Initiative (CSEi) Postdoctoral Fellow</p>
+      <p>jesswan@uchicago.edu</p>
+  - align: right
+    image: karan_jakhar.jpg
+    content: about_karan_jakhar.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Postdoctoral Researcher</p>
+      <p>karanj@uchicago.edu</p>
+  - align: right
+    image: katy_rucker.jpg
+    content: about_katy_rucker.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>krucker01@uchicago.edu</p>
+  - align: right
+    image: lichuan_xu.jpg
+    content: about_lichuan_xu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>lichuan@uchicago.edu</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_zhixing_liu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>zhixingliu@uchicago.edu</p>
+  - align: right
+    image: weidong_li.jpg
+    content: about_weidong_li.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>weidongli@uchicago.edu</p>
+  - align: right
+    image: adam_marchakitus.jpg
+    content: about_adam_marchakitus.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Research Staff</p>
+      <p>marchakitus@uchicago.edu</p>
+  - align: right
+    content: about_former_members.md
 ---
