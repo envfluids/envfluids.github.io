@@ -16,6 +16,13 @@ profiles:
       <p>Research Scientist</p>
       <p>qiangsun@uchicago.edu</p>
   - align: right
+    image: bing_gong.jpeg
+    content: about_bing_gong.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Research Scientist</p>
+      <p>gongbing@uchicago.edu</p>
+  - align: right
     image: hamid_pahlavan.jpg
     content: about_hamid_pahlavan.md
     image_circular: false # crops the image to make it circular
@@ -29,6 +36,13 @@ profiles:
     more_info: >
       <p>Schmidt AI in Science Postdoctoral Fellow</p>
       <p>awikner@uchicago.edu</p>
+  - align: right
+    image: rajat_masiwal.jpeg
+    content: about_rajat_masiwal.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Postdoctoral Researcher</p>
+      <p>rajatm@uchicago.edu</p>
   - align: right
     image: jess_wan.jpg
     content: about_jess_wan.md
