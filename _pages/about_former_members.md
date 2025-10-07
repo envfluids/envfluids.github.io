@@ -1,6 +1,6 @@
 # Former Members
 
-**Dr. Ashesh Chattopadhyay**
+**Dr. Ashesh Chattopadhyay**  
 PhD student (Fall 2017-Fall 2022)  
 Thesis: Theoretical and applied deep learning for turbulence  
 Next position: Assistant Professor of Applied Math, UC Santa Cruz
