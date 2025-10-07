@@ -197,6 +197,7 @@ exclude:
   - _pages/projects.md
   - _pages/cv.md
   - _posts/
+  - _books/
   - _projects/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
