@@ -30,6 +30,13 @@ profiles:
       <p>Research Scientist</p>
       <p>pahlavan@nwra.com</p>
   - align: right
+    image: katie_kowal.jpg
+    content: about_katie_kowal.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Research Scientist</p>
+      <p>katiekowal@uchicago.edu</p>
+  - align: right
     image: alex_wikner.jpeg
     content: about_alex_wikner.md
     image_circular: false # crops the image to make it circular
