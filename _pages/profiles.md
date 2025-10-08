@@ -107,6 +107,13 @@ profiles:
       <p>PhD Student</p>
       <p>weidongli@uchicago.edu</p>
   - align: right
+    image: pumeng_lyu.jpg
+    content: about_pumeng_lyu.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>plyu9@uchicago.edu</p>
+  - align: right
     image: adam_marchakitus.jpg
     content: about_adam_marchakitus.md
     image_circular: true # crops the image to make it circular
