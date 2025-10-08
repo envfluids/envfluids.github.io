@@ -6,7 +6,7 @@ title: The Climate Extremes Theory and Data (CeTD) Group # the website title (if
 first_name: Climate Extremes Theory and Data (CeTD) Group
 middle_name:
 last_name:
-short_name: CeDT Group
+short_name: CeTD Group
 contact_note: >
   For inquiries, please email Dr. Pedram Hassanzadeh
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,7 +14,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: climate extremes, UChicago, Pedram Hassanzadeh, machine learning, fluid dynamics, geophysical fluid dynamics, atmospheric science, climate science, data science, University of Chicago # a list of keywords for search engines
+keywords: climate extremes, UChicago, Pedram Hassanzadeh, machine learning, fluid dynamics, geophysical fluid dynamics, atmospheric science, climate science, data science, University of Chicago, cedt, AI, artificial intelligence # a list of keywords for search engines
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: CeDT # blog_name will be displayed in your blog page
-blog_description: current events at CeDT
+blog_name: CeTD # blog_name will be displayed in your blog page
+blog_description: current events at CeTD
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
