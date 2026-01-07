@@ -71,6 +71,10 @@ profiles:
     content: about_zhixing_liu.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: antonia_baies.jpeg
+    content: about_antonia_baies.md
+    image_circular: true # crops the image to make it circular
+  - align: right
     image: adam_marchakitus.jpg
     content: about_adam_marchakitus.md
     image_circular: true # crops the image to make it circular

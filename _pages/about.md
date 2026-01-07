@@ -5,8 +5,9 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof-pic.png
   image_circular: false # crops the image to make it circular
+  no_shadow: true
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
