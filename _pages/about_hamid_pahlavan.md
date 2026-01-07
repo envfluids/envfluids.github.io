@@ -1,5 +1,8 @@
 # Dr. Hamid Pahlavan
 
+##### _Research Scientist_
+
+[pahlavan@uchicago.edu](mailto:pahlavan@uchicago.edu)  
 [Personal website](https://hapahlavan.weebly.com/)  
 [Google scholar](https://scholar.google.com/citations?user=QeKynIgAAAAJ&hl=en)
 

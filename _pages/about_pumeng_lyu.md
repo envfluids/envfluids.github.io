@@ -1,5 +1,8 @@
 # Pumeng Lyu
 
+##### _PhD Student_
+
+[plyu9@uchicago.edu](mailto:plyu9@uchicago.edu)  
 [Google scholar](https://scholar.google.com/citations?hl=en&user=Bb9pqD4AAAAJ)  
 [LinkedIn](https://www.linkedin.com/in/pumenglyu/)
 

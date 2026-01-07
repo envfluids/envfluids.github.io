@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /director/
-title: director
-nav: true
+title: Director
+nav: false
 nav_order: 1
 
 profiles:
@@ -13,6 +13,5 @@ profiles:
     content: about_pedram.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Associate Professor, University of Chicago</p>
       <p>pedramh@uchicago.edu</p>
 ---

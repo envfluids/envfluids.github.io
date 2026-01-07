@@ -1,14 +1,14 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -26,7 +26,5 @@ more_info: >
   <p>5734 South Ellis Avenue</p>
   <p>Chicago, Illinois 60637</p>
 ---
-
-_University of Chicago, Department of the Geophysical Sciences_
 
 We study extreme weather, climate change, geophysical turbulence, and scientific machine learning (ML) through the lens of multi-scale nonlinear dynamics. We integrate tools and concepts from nonlinear and climate dynamics, applied and computational math, and ML to gain a deeper theoretical understanding of these phenomena and to develop novel frameworks to predict them across the time and spatial scales. We are also interested in interdisciplinary collaborations that enable direct translation of fundamental advances in AI+science to address critical societal needs, particularly through our involvement with UChicago’s [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/research/aice-ai-for-climate/) and [Human-centered Weather Forecasts (HCF)](https://humancenteredforecasts.climate.uchicago.edu/) Initiative.

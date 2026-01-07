@@ -1,6 +1,6 @@
 ---
 layout: page
-title: available positions
+title: Available Positions
 permalink: /positions/
 nav: true
 nav_order: 5

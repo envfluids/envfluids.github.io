@@ -1,5 +1,8 @@
 # Dr. Jess Wan
 
+##### _Climate Systems Engineering Initiative (CSEi) Postdoctoral Fellow_
+
+[jesswan@uchicago.edu](mailto:jesswan@uchicago.edu)  
 [Personal website](https://jessicaswan.github.io/)  
 [Google scholar](https://scholar.google.com/citations?user=kx6aj5cAAAAJ&hl=en&authuser=1&oi=ao%20)
 

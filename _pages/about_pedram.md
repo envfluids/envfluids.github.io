@@ -1,5 +1,7 @@
 # Dr. Pedram Hassanzadeh
 
+#### _Director, Associate Professor_
+
 [Department of Geophysical Sciences](https://geosci.uchicago.edu/people/pedram-hassanzadeh/)  
 [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/people/profile/pedram-hassanzadeh/)  
 Director: [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/research/aice-ai-for-climate/), Data Science Institute  
@@ -9,10 +11,11 @@ Associate Editor, [Journal of Advances in Modeling Earth Systems](https://agupub
 Co-editor, [Weather and Climate Dynamics](https://www.weather-climate-dynamics.net/) (EGU journal)  
 Editorial Board, [Environmental Research: Climate](https://publishingsupport.iopscience.iop.org/journals/environmental-research-climate/about-environmental-research-climate/)
 
+Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu)  
+Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
+
 CV: [Hassanzadeh_CV_2022](https://pedram.rice.edu/files/2023/03/Hassanzadeh_CV_2022.pdf)  
 [Math Genealogy of our group](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=173328)
-
-Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
 ### Education & Appointments:
 
