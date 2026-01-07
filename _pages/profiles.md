@@ -19,20 +19,24 @@ profiles:
     content: about_qiang_sun.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: bing_gong.jpeg
-    content: about_bing_gong.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: hamid_pahlavan.jpg
     content: about_hamid_pahlavan.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: alex_wikner.jpeg
+    content: about_alex_wikner.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: katie_kowal.jpg
     content: about_katie_kowal.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: alex_wikner.jpeg
-    content: about_alex_wikner.md
+    image: rajat_masiwal.jpeg
+    content: about_rajat_masiwal.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: bing_gong.jpeg
+    content: about_bing_gong.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: justin_finkle.jpeg
@@ -43,8 +47,8 @@ profiles:
     content: about_jess_wan.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: rajat_masiwal.jpeg
-    content: about_rajat_masiwal.md
+    image: anna_asch.jpeg
+    content: about_anna_asch.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: katy_rucker.jpg
@@ -55,14 +59,6 @@ profiles:
     content: about_lichuan_xu.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: anna_asch.jpeg
-    content: about_anna_asch.md
-    image_circular: true # crops the image to make it circular
-  - align: right
-    image: zhixing_liu.jpeg
-    content: about_zhixing_liu.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: weidong_li.jpg
     content: about_weidong_li.md
     image_circular: true # crops the image to make it circular
@@ -70,9 +66,10 @@ profiles:
     image: pumeng_lyu.jpg
     content: about_pumeng_lyu.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>PhD Student</p>
-      <p>plyu9@uchicago.edu</p>
+  - align: right
+    image: zhixing_liu.jpeg
+    content: about_zhixing_liu.md
+    image_circular: true # crops the image to make it circular
   - align: right
     image: adam_marchakitus.jpg
     content: about_adam_marchakitus.md
