@@ -1,5 +1,8 @@
 # Dr. Justin Finkle
 
+##### _Postdoctoral Fellow_
+
+[jfinkel@uchicago.edu](mailto:jfinkel@uchicago.edu)  
 [Personal website](https://justinfocus12.github.io)  
 [Google scholar](https://scholar.google.com/citations?user=RqIxrtsAAAAJ&hl=en)
 
