@@ -12,6 +12,7 @@
 	note = {arXiv:2509.26282 [cs]},
 	keywords = {Computer Science - Machine Learning},
 	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/EAMFCRMI/Zhou et al. - 2025 - Reframing Generative Models for Physical Systems using Stochastic Interpolants.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/6RVFXNB9/2509.html:text/html},
+	preprint = "https://arxiv.org/abs/2509.26282",
 }
 
 @misc{jakhar_analytical_2025,
@@ -27,6 +28,7 @@
 	note = {arXiv:2509.20365 [physics]},
 	keywords = {Computer Science - Machine Learning, Physics - Atmospheric and Oceanic Physics},
 	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/YVGZ9DJF/Jakhar et al. - 2025 - An Analytical and AI-discovered Stable, Accurate, and Generalizable Subgrid-scale Closure for Geophy.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/73ANKXS2/2509.html:text/html},
+	preprint = "https://arxiv.org/abs/2509.20365",
 }
 
 @misc{jiang_hierarchical_2025,
@@ -52,32 +54,12 @@
 	url = {https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL114136},
 	doi = {10.1029/2024GL114136},
 	abstract = {Abstract
-            
               Model instability remains a core challenge for data‐driven parameterizations, especially those developed with supervised algorithms, and rigorous methods to address it are lacking. Here, by integrating machine learning (ML) theory with climate physics, we demonstrate the importance of learning spatially
               non‐local
               dynamics using a 1D quasi‐biennial oscillation model with parameterized gravity waves (GW) as a testbed. While common offline metrics fail to identify shortcomings in learning non‐local dynamics, we show that the receptive field (RF) can identify instability a‐priori. We find that neural network‐based parameterizations, though predicting GW forcings from wind profiles with 99\% accuracy, lead to unstable simulations when RFs are too small to capture non‐local dynamics. Additionally, we demonstrate that learning non‐local dynamics is crucial for the stability of a data‐driven spatiotemporal
               emulator
               of the zonal wind field. This work underscores the need to integrate ML theory with physics in designing data‐driven algorithms for climate modeling.
-            
-          , 
-            Plain Language Summary
-            
-              Climate models, constrained by computational limits, estimate (i.e., parameterize) small‐scale physical processes like atmospheric gravity waves because these occur on scales smaller than the model grid size. Recently, neural networks (NNs) have shown promise in replacing these parameterizations by learning from data. However, NN‐based parameterizations often lead to instabilities when coupled with climate models, and rigorous methods to address this issue are lacking. We combine machine learning (ML) theory and climate physics to demonstrate that one key driver of such instabilities is the failure to learn spatially
-              non‐local
-              dynamics. Using a model of tropical circulation and gravity waves as a testbed, we demonstrate that while typical metrics fail to identify an NN's shortcomings, the ML‐based metric of receptive field (RF) predicts stability or instability in advance. Given the ubiquity of non‐local dynamics in the climate system, we expect the use of effective RF, which can be computed for any NN architecture, to be important for many applications. These findings highlight the need to integrate ML theory with physics for accurate climate modeling.
-            
-          , 
-            Key Points
-            
-              
-                
-                  A 1D quasi‐biennial oscillation model is used as a testbed to diagnose and remedy a source of instability in data‐driven climate modeling
-                
-                
-                  By integrating machine learning theory with climate physics, the importance of learning spatially non‐local dynamics for stability is shown
-                
-                
-                  While common metrics fail to reveal issues in learning non‐local dynamics, the (effective) receptive field predicts instability a‐priori},
+            },
 	language = {en},
 	number = {10},
 	urldate = {2025-10-07},
@@ -86,6 +68,7 @@
 	month = may,
 	year = {2025},
 	pages = {e2024GL114136},
+	selected = {true},
 }
 
 @article{sun_can_2025,
@@ -103,6 +86,23 @@
 	month = may,
 	year = {2025},
 	pages = {e2420914122},
+	selected = {true},
+}
+
+@misc{sun_predicting_2025,
+	title = {Predicting {Beyond} {Training} {Data} via {Extrapolation} versus {Translocation}: {AI} {Weather} {Models} and {Dubai}'s {Unprecedented} 2024 {Rainfall}},
+	shorttitle = {Predicting {Beyond} {Training} {Data} via {Extrapolation} versus {Translocation}},
+	url = {http://arxiv.org/abs/2505.10241},
+	doi = {10.48550/arXiv.2505.10241},
+	abstract = {Artificial intelligence (AI) models have transformed weather forecasting, but their skill for gray swan extreme events is unclear. Here, we analyze GraphCast and FuXi forecasts of the unprecedented 2024 Dubai storm, which had twice the training set's highest rainfall in that region. Remarkably, GraphCast accurately forecasts this event 8 days ahead. FuXi forecasts the event, but underestimates the rainfall, especially at long lead times. GraphCast's success stems from "translocation": learning from comparable/stronger dynamically similar events in other regions during training via global effective receptive fields. Evidence of "extrapolation" (learning from training set's weaker events) is not found. Even events within the global distribution's tail are poorly forecasted, which is not just due to data imbalance (generalization error) but also spectral bias (optimization error). These findings demonstrate the potential of AI models to forecast regional gray swans and opportunity to improve them through understanding the mechanisms behind their successes and limitations.},
+	urldate = {2025-10-07},
+	publisher = {arXiv},
+	author = {Sun, Y. Qiang and Hassanzadeh, Pedram and Shaw, Tiffany and Pahlavan, Hamid A.},
+	month = may,
+	year = {2025},
+	note = {arXiv:2505.10241 [physics]},
+	keywords = {Physics - Atmospheric and Oceanic Physics},
+	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/E5IPXCGE/Sun et al. - 2025 - Predicting Beyond Training Data via Extrapolation versus Translocation AI Weather Models and Dubai'.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/GXYP7D3Q/2505.html:text/html},
 }
 
 @misc{darman_fourier_2025,
@@ -175,6 +175,7 @@
 	issn = {2522-5820},
 	url = {https://www.nature.com/articles/s42254-024-00776-3},
 	doi = {10.1038/s42254-024-00776-3},
+	abstract = {Climate science has been revolutionized by the combined effects of an exponential growth in computing power, which has enabled more sophisticated and higher-resolution simulations to be made of the climate system, and an exponential increase in observations since the first weather satellite was put in orbit. Big data and associated algorithms, coalesced under the field of machine learning (ML), offer the opportunity to study the physics of the climate system in ways, and with an amount of detail, that were previously infeasible. Additionally, ML can ask causal questions to determine whether one or more variables cause or affect one or more outcomes and improve prediction skills beyond classical limits. Furthermore, when paired with modelling experiments or robust research on model parameterizations, ML can accelerate computations, increasing accuracy and generating very large ensembles with a fraction of the computational cost of traditional systems. In this Review, we outline the accomplishments of ML in climate physics. We discuss how ML has been used to tackle long-standing problems in the reconstruction of observational data, representation of sub-grid-scale phenomena and climate (and weather) prediction. Finally, we consider the benefits and major challenges of exploiting ML in studying complex systems.},
 	language = {en},
 	number = {1},
 	urldate = {2025-10-07},
@@ -183,6 +184,7 @@
 	month = nov,
 	year = {2024},
 	pages = {6--20},
+	selected = {true},
 }
 
 @misc{guan_online_2025,
@@ -278,6 +280,7 @@
 	year = {2024},
 	pages = {e2023MS004145},
 	file = {Full Text:/Users/marchakitus/Zotero/storage/Q32AP4JJ/Sun et al. - 2024 - Data Imbalance, Uncertainty Quantification, and Transfer Learning in Data‐Driven Parameterizations.pdf:application/pdf},
+	selected = {true},
 }
 
 @article{jakhar_learning_2024,
@@ -1278,105 +1281,7 @@ of complex nonlinear dynamical systems, such as weather and climate, are discuss
 	shorttitle = {Stability of three-dimensional {Gaussian} vortices in an unbounded, rotating, vertically stratified, {Boussinesq} flow},
 	url = {https://www.cambridge.org/core/product/identifier/S0022112017003032/type/journal_article},
 	doi = {10.1017/jfm.2017.303},
-	abstract = {The linear stability of three-dimensional vortices in rotating, stratified flows has been studied by analysing the non-hydrostatic inviscid Boussinesq equations. We have focused on a widely used model of geophysical and astrophysical vortices, which assumes an axisymmetric Gaussian structure for pressure anomalies in the horizontal and vertical directions. For a range of Rossby numbers (
-              
-                
-                  
-                  \$-0.5{\textless}Ro{\textless}0.5\$
-                
-              
-              ) and Burger numbers (
-              
-                
-                  
-                  \$0.02{\textless}Bu{\textless}2.3\$
-                
-              
-              ) relevant to observed long-lived vortices, the growth rate and spatial structure of the most unstable eigenmodes have been numerically calculated and presented as a function of
-              
-                
-                  
-                  \$Ro\{-\}Bu\$
-                
-              
-              . We have found neutrally stable vortices only over a small region of the
-              
-                
-                  
-                  \$Ro\{-\}Bu\$
-                
-              
-              parameter space: cyclones with
-              
-                
-                  
-                  \$Ro{\textbackslash}sim 0.02\{-\}0.05\$
-                
-              
-              and
-              
-                
-                  
-                  \$Bu{\textbackslash}sim 0.85\{-\}0.95\$
-                
-              
-              . However, we have also found that anticyclones in general have slower growth rates compared to cyclones. In particular, the growth rate of the most unstable eigenmode for anticyclones in a large region of the parameter space (e.g.
-              
-                
-                  
-                  \$Ro{\textless}0\$
-                
-              
-              and
-              
-                
-                  
-                  \$0.5{\textbackslash}lesssim Bu{\textbackslash}lesssim 1.3\$
-                
-              
-              ) is slower than 50 turnaround times of the vortex (which often corresponds to several years for ocean eddies). For cyclones, the region with such slow growth rates is confined to
-              
-                
-                  
-                  \$0{\textless}Ro{\textless}0.1\$
-                
-              
-              and
-              
-                
-                  
-                  \$0.5{\textbackslash}lesssim Bu{\textbackslash}lesssim 1.3\$
-                
-              
-              . While most calculations have been done for
-              
-                
-                  
-                  \$f/{\textbackslash}bar\{N\}=0.1\$
-                
-              
-              (where
-              
-                
-                  
-                  \$f\$
-                
-              
-              and
-              
-                
-                  
-                  \${\textbackslash}bar\{N\}\$
-                
-              
-              are the Coriolis and background Brunt–Väisälä frequencies), we have numerically verified and explained analytically, using non-dimensionalized equations, the insensitivity of the results to reducing
-              
-                
-                  
-                  \$f/{\textbackslash}bar\{N\}\$
-                
-              
-              to the more ocean-relevant value of 0.01. The results of our stability analysis of Gaussian vortices both support and contradict the findings of earlier studies with QG or multilayer models or with other families of vortices. The results of this paper provide a stepping stone to study the more complicated problems of the stability of geophysical (e.g. those in the atmospheres of giant planets) and astrophysical vortices (in accretion disks).},
+	abstract = {The linear stability of three-dimensional vortices in rotating, stratified flows has been studied by analysing the non-hydrostatic inviscid Boussinesq equations. We have focused on a widely used model of geophysical and astrophysical vortices, which assumes an axisymmetric Gaussian structure for pressure anomalies in the horizontal and vertical directions. For a range of Rossby numbers (  −0.5<𝑅𝑜<0.5  ) and Burger numbers (  0.02<𝐵𝑢<2.3  ) relevant to observed long-lived vortices, the growth rate and spatial structure of the most unstable eigenmodes have been numerically calculated and presented as a function of  𝑅𝑜−𝐵𝑢  . We have found neutrally stable vortices only over a small region of the  𝑅𝑜−𝐵𝑢  parameter space: cyclones with  𝑅𝑜∼0.02−0.05  and  𝐵𝑢∼0.85−0.95  . However, we have also found that anticyclones in general have slower growth rates compared to cyclones. In particular, the growth rate of the most unstable eigenmode for anticyclones in a large region of the parameter space (e.g.  𝑅𝑜<0  and  0.5≲𝐵𝑢≲1.3  ) is slower than 50 turnaround times of the vortex (which often corresponds to several years for ocean eddies). For cyclones, the region with such slow growth rates is confined to  0<𝑅𝑜<0.1  and  0.5≲𝐵𝑢≲1.3  . While most calculations have been done for  𝑓/𝑁¯=0.1  (where  𝑓  and  𝑁¯  are the Coriolis and background Brunt–Väisälä frequencies), we have numerically verified and explained analytically, using non-dimensionalized equations, the insensitivity of the results to reducing  𝑓/𝑁¯  to the more ocean-relevant value of 0.01. The results of our stability analysis of Gaussian vortices both support and contradict the findings of earlier studies with QG or multilayer models or with other families of vortices. The results of this paper provide a stepping stone to study the more complicated problems of the stability of geophysical (e.g. those in the atmospheres of giant planets) and astrophysical vortices (in accretion disks).},
 	language = {en},
 	urldate = {2025-10-07},
 	journal = {Journal of Fluid Mechanics},
@@ -1522,121 +1427,7 @@ of complex nonlinear dynamical systems, such as weather and climate, are discuss
 	issn = {0022-1120, 1469-7645},
 	url = {https://www.cambridge.org/core/product/identifier/S0022112014003061/type/journal_article},
 	doi = {10.1017/jfm.2014.306},
-	abstract = {Abstract
-            
-              The calculus of variations is employed to find steady divergence-free velocity fields that maximize transport of a tracer between two parallel walls held at fixed concentration for one of two constraints on flow strength: a fixed value of the kinetic energy (mean square velocity) or a fixed value of the enstrophy (mean square vorticity). The optimizing flows consist of an array of (convection) cells of a particular aspect ratio
-              
-                
-                  
-                  \${\textbackslash}def {\textbackslash}xmlpi \#1\{\}{\textbackslash}def {\textbackslash}mathsfbi \#1\{{\textbackslash}boldsymbol \{{\textbackslash}mathsf \{\#1\}\}\}{\textbackslash}let {\textbackslash}le ={\textbackslash}leqslant {\textbackslash}let {\textbackslash}leq ={\textbackslash}leqslant {\textbackslash}let {\textbackslash}ge ={\textbackslash}geqslant {\textbackslash}let {\textbackslash}geq ={\textbackslash}geqslant {\textbackslash}def {\textbackslash}Pr \{{\textbackslash}mathit \{Pr\}\}{\textbackslash}def {\textbackslash}Fr \{{\textbackslash}mathit \{Fr\}\}{\textbackslash}def {\textbackslash}Rey \{{\textbackslash}mathit \{Re\}\}{\textbackslash}varGamma \$
-                
-              
-              . We solve the nonlinear Euler–Lagrange equations analytically for weak flows and numerically – as well as via matched asymptotic analysis in the fixed energy case – for strong flows. We report the results in terms of the Nusselt number
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\$
-                
-              
-              , a dimensionless measure of the tracer transport, as a function of the Péclet number
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Pe\}\}\$
-                
-              
-              , a dimensionless measure of the strength of the flow. For both constraints, the maximum transport
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\_\{{\textbackslash}mathit\{MAX\}\}(\{{\textbackslash}mathit\{Pe\}\})\$
-                
-              
-              is realized in cells of decreasing aspect ratio
-              
-                
-                  
-                  \${\textbackslash}varGamma \_\{{\textbackslash}mathit\{opt\}\}(\{{\textbackslash}mathit\{Pe\}\})\$
-                
-              
-              as
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Pe\}\}\$
-                
-              
-              increases. For the fixed energy problem,
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\_\{{\textbackslash}mathit\{MAX\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Pe\}\}\$
-                
-              
-              and
-              
-                
-                  
-                  \${\textbackslash}varGamma \_\{{\textbackslash}mathit\{opt\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Pe\}\}{\textasciicircum}\{-1/2\}\$
-                
-              
-              , while for the fixed enstrophy scenario,
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\_\{{\textbackslash}mathit\{MAX\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Pe\}\}{\textasciicircum}\{10/17\}\$
-                
-              
-              and
-              
-                
-                  
-                  \${\textbackslash}varGamma \_\{{\textbackslash}mathit\{opt\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Pe\}\}{\textasciicircum}\{-0.36\}\$
-                
-              
-              . We interpret our results in the context of buoyancy-driven Rayleigh–Bénard convection problems that satisfy the flow intensity constraints, enabling us to investigate how the transport scalings compare with upper bounds on
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\$
-                
-              
-              expressed as a function of the Rayleigh number
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Ra\}\}\$
-                
-              
-              . For steady convection in porous media, corresponding to the fixed energy problem, we find
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\_\{{\textbackslash}mathit\{MAX\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Ra\}\}\$
-                
-              
-              and
-              
-                
-                  
-                  \${\textbackslash}varGamma \_\{{\textbackslash}mathit\{opt\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Ra\}\}{\textasciicircum}\{-1/2\}\$
-                
-              
-              , while for steady convection in a pure fluid layer between stress-free isothermal walls, corresponding to fixed enstrophy transport,
-              
-                
-                  
-                  \$\{{\textbackslash}mathit\{Nu\}\}\_\{{\textbackslash}mathit\{MAX\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Ra\}\}{\textasciicircum}\{5/12\}\$
-                
-              
-              and
-              
-                
-                  
-                  \${\textbackslash}varGamma \_\{{\textbackslash}mathit\{opt\}\} {\textbackslash}sim \{{\textbackslash}mathit\{Ra\}\}{\textasciicircum}\{-1/4\}\$
-                
-              
-              .},
+	abstract = {The calculus of variations is employed to find steady divergence-free velocity fields that maximize transport of a tracer between two parallel walls held at fixed concentration for one of two constraints on flow strength: a fixed value of the kinetic energy (mean square velocity) or a fixed value of the enstrophy (mean square vorticity). The optimizing flows consist of an array of (convection) cells of a particular aspect ratio  𝛤  . We solve the nonlinear Euler–Lagrange equations analytically for weak flows and numerically – as well as via matched asymptotic analysis in the fixed energy case – for strong flows. We report the results in terms of the Nusselt number  Nu  , a dimensionless measure of the tracer transport, as a function of the Péclet number  Pe  , a dimensionless measure of the strength of the flow. For both constraints, the maximum transport  NuMAX(Pe)  is realized in cells of decreasing aspect ratio  𝛤opt(Pe)  as Pe  increases. For the fixed energy problem,  NuMAX∼Pe  and  𝛤opt∼Pe−1/2  , while for the fixed enstrophy scenario,  NuMAX∼Pe10/17  and  𝛤opt∼Pe−0.36  . We interpret our results in the context of buoyancy-driven Rayleigh–Bénard convection problems that satisfy the flow intensity constraints, enabling us to investigate how the transport scalings compare with upper bounds on  Nu  expressed as a function of the Rayleigh number  Ra  . For steady convection in porous media, corresponding to the fixed energy problem, we find  NuMAX∼Ra  and 𝛤opt∼Ra−1/2  , while for steady convection in a pure fluid layer between stress-free isothermal walls, corresponding to fixed enstrophy transport,  NuMAX∼Ra5/12  and  𝛤opt∼Ra−1/4.},
 	language = {en},
 	urldate = {2025-10-07},
 	journal = {Journal of Fluid Mechanics},
@@ -1673,65 +1464,7 @@ of complex nonlinear dynamical systems, such as weather and climate, are discuss
 	shorttitle = {The universal aspect ratio of vortices in rotating stratified flows},
 	url = {https://www.cambridge.org/core/product/identifier/S0022112012001802/type/journal_article},
 	doi = {10.1017/jfm.2012.180},
-	abstract = {Abstract
-            
-              We derive a relationship for the vortex aspect ratio
-              
-                \${\textbackslash}ensuremath\{{\textbackslash}alpha\} \$
-              
-              (vertical half-thickness over horizontal length scale) for steady and slowly evolving vortices in rotating stratified fluids, as a function of the Brunt–Väisälä frequencies within the vortex
-              
-                \$\{N\}\_\{c\} \$
-              
-              and in the background fluid outside the vortex
-              
-                \${\textbackslash}bar \{N\} \$
-              
-              , the Coriolis parameter
-              
-                \$f\$
-              
-              and the Rossby number
-              
-                \${\textbackslash}mathit\{Ro\}\$
-              
-              of the vortex:
-              
-                \$\{{\textbackslash}ensuremath\{{\textbackslash}alpha\} \}{\textasciicircum}\{2\} = {\textbackslash}mathit\{Ro\}(1+ {\textbackslash}mathit\{Ro\})\{f\}{\textasciicircum}\{2\} / (\{ N\}\_\{c\}{\textasciicircum}\{2\} {\textbackslash}ensuremath\{-\} \{{\textbackslash}bar \{N\} \}{\textasciicircum}\{2\} )\$
-              
-              . This relation is valid for cyclones and anticyclones in either the cyclostrophic or geostrophic regimes; it works with vortices in Boussinesq fluids or ideal gases, and the background density gradient need not be uniform. Our relation for
-              
-                \${\textbackslash}ensuremath\{{\textbackslash}alpha\} \$
-              
-              has many consequences for equilibrium vortices in rotating stratified flows. For example, cyclones must have
-              
-                \$\{ N\}\_\{c\}{\textasciicircum}\{2\} {\textbackslash}gt \{{\textbackslash}bar \{N\} \}{\textasciicircum}\{2\} \$
-              
-              ; weak anticyclones (with
-              
-                \${\textbackslash}vert {\textbackslash}mathit\{Ro\}{\textbackslash}vert {\textbackslash}lt 1\$
-              
-              ) must have
-              
-                \$\{ N\}\_\{c\}{\textasciicircum}\{2\} {\textbackslash}lt \{{\textbackslash}bar \{N\} \}{\textasciicircum}\{2\} \$
-              
-              ; and strong anticyclones must have
-              
-                \$\{ N\}\_\{c\}{\textasciicircum}\{2\} {\textbackslash}gt \{{\textbackslash}bar \{N\} \}{\textasciicircum}\{2\} \$
-              
-              . We verify our relation for
-              
-                \${\textbackslash}ensuremath\{{\textbackslash}alpha\} \$
-              
-              with numerical simulations of the three-dimensional Boussinesq equations for a wide variety of vortices, including: vortices that are initially in (dissipationless) equilibrium and then evolve due to an imposed weak viscous dissipation or density radiation; anticyclones created by the geostrophic adjustment of a patch of locally mixed density; cyclones created by fluid suction from a small localized region; vortices created from the remnants of the violent breakups of columnar vortices; and weakly non-axisymmetric vortices. The values of the aspect ratios of our numerically computed vortices validate our relationship for
-              
-                \${\textbackslash}ensuremath\{{\textbackslash}alpha\} \$
-              
-              , and generally they differ significantly from the values obtained from the much-cited conjecture that
-              
-                \${\textbackslash}ensuremath\{{\textbackslash}alpha\} = f/ {\textbackslash}bar \{N\} \$
-              
-              in quasi-geostrophic vortices.},
+	abstract = {We derive a relationship for the vortex aspect ratio  (vertical half-thickness over horizontal length scale) for steady and slowly evolving vortices in rotating stratified fluids, as a function of the Brunt–Väisälä frequencies within the vortex  and in the background fluid outside the vortex , the Coriolis parameter  and the Rossby number  of the vortex: . This relation is valid for cyclones and anticyclones in either the cyclostrophic or geostrophic regimes; it works with vortices in Boussinesq fluids or ideal gases, and the background density gradient need not be uniform. Our relation for  has many consequences for equilibrium vortices in rotating stratified flows. For example, cyclones must have ; weak anticyclones (with ) must have ; and strong anticyclones must have . We verify our relation for  with numerical simulations of the three-dimensional Boussinesq equations for a wide variety of vortices, including: vortices that are initially in (dissipationless) equilibrium and then evolve due to an imposed weak viscous dissipation or density radiation; anticyclones created by the geostrophic adjustment of a patch of locally mixed density; cyclones created by fluid suction from a small localized region; vortices created from the remnants of the violent breakups of columnar vortices; and weakly non-axisymmetric vortices. The values of the aspect ratios of our numerically computed vortices validate our relationship for , and generally they differ significantly from the values obtained from the much-cited conjecture that  in quasi-geostrophic vortices.},
 	language = {en},
 	urldate = {2025-10-07},
 	journal = {Journal of Fluid Mechanics},
@@ -1790,66 +1523,4 @@ of complex nonlinear dynamical systems, such as weather and climate, are discuss
 	month = jan,
 	year = {2008},
 	pages = {374--382},
-}
-
-@misc{rucker_benchmarking_2025,
-	title = {Benchmarking {Regional} {Thermodynamic} {Trends} in an {AI} emulator, {ACE2}, and a hybrid model, {NeuralGCM}},
-	url = {http://arxiv.org/abs/2511.00274},
-	doi = {10.48550/arXiv.2511.00274},
-	abstract = {AI models have emerged as potential complements to physics-based models, but their skill in capturing observed regional climate trends with important societal impacts has not been explored. Here, we benchmark satellite-era regional thermodynamic trends, including extremes, in an AI emulator (ACE2) and a hybrid model (NeuralGCM). We also compare the AI models' skill to physics-based land-atmosphere models. Both AI models show skill in capturing regional temperature trends such as Arctic Amplification. ACE2 outperforms other models in capturing vertical temperature trends in the midlatitudes. However, the AI models do not capture regional trends in heat extremes over the US Southwest. Furthermore, they do not capture drying trends in arid regions, even though they generally perform better than physics-based models. Our results also show that a data-driven AI emulator can perform comparably to, or better than, hybrid and physics-based models in capturing regional thermodynamic trends.},
-	urldate = {2026-01-20},
-	publisher = {arXiv},
-	author = {Rucker, Katharine and Baxter, Ian and Hassanzadeh, Pedram and Shaw, Tiffany A. and Pahlavan, Hamid A.},
-	month = nov,
-	year = {2025},
-	note = {arXiv:2511.00274 [physics]},
-	keywords = {Physics - Atmospheric and Oceanic Physics},
-	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/VLLYXLVI/Rucker et al. - 2025 - Benchmarking Regional Thermodynamic Trends in an AI emulator, ACE2, and a hybrid model, NeuralGCM.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/T9BBKL9T/2511.html:text/html},
-}
-
-@misc{lancelin_ai-boosted_2025,
-	title = {{AI}-boosted rare event sampling to characterize extreme weather},
-	url = {http://arxiv.org/abs/2510.27066},
-	doi = {10.48550/arXiv.2510.27066},
-	abstract = {Assessing the frequency and intensity of extreme weather events, and understanding how climate change affects them, is crucial for developing effective adaptation and mitigation strategies. However, observational datasets are too short and physics-based global climate models (GCMs) are too computationally expensive to obtain robust statistics for the rarest, yet most impactful, extreme events. AI-based emulators have shown promise for predictions at weather and even climate timescales, but they struggle on extreme events with few or no examples in their training dataset. Rare event sampling (RES) algorithms have previously demonstrated success for some extreme events, but their performance depends critically on a hard-to-identify "score function", which guides efficient sampling by a GCM. Here, we develop a novel algorithm, AI+RES, which uses ensemble forecasts of an AI weather emulator as the score function to guide highly efficient resampling of the GCM and generate robust (physics-based) extreme weather statistics and associated dynamics at 30-300x lower cost. We demonstrate AI+RES on mid-latitude heatwaves, a challenging test case requiring a score function with predictive skill many days in advance. AI+RES, which synergistically integrates AI, RES, and GCMs, offers a powerful, scalable tool for studying extreme events in climate science, as well as other disciplines in science and engineering where rare events and AI emulators are active areas of research.},
-	urldate = {2026-01-20},
-	publisher = {arXiv},
-	author = {Lancelin, Amaury and Wikner, Alex and Dubus, Laurent and Priol, Clément Le and Abbot, Dorian S. and Bouchet, Freddy and Hassanzadeh, Pedram and Weare, Jonathan},
-	month = oct,
-	year = {2025},
-	note = {arXiv:2510.27066 [physics]},
-	keywords = {Physics - Atmospheric and Oceanic Physics, Statistics - Computation, Statistics - Machine Learning},
-	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/6KLNBCZ7/Lancelin et al. - 2025 - AI-boosted rare event sampling to characterize extreme weather.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/LA8LYU4W/2510.html:text/html},
-}
-
-@misc{yao_deep_2025,
-	title = {Deep learning the sources of {MJO} predictability: a spectral view of learned features},
-	shorttitle = {Deep learning the sources of {MJO} predictability},
-	url = {http://arxiv.org/abs/2510.03582},
-	doi = {10.48550/arXiv.2510.03582},
-	abstract = {The Madden-Julian oscillation (MJO) is a planetary-scale, intraseasonal tropical rainfall phenomenon crucial for global weather and climate; however, its dynamics and predictability remain poorly understood. Here, we leverage deep learning (DL) to investigate the sources of MJO predictability, motivated by a central difference in MJO theories: which spatial scales are essential for driving the MJO? We first develop a deep convolutional neural network (DCNN) to forecast the MJO indices (RMM and ROMI). Our model predicts RMM and ROMI up to 21 and 33 days, respectively, achieving skills comparable to leading subseasonal-to-seasonal models such as NCEP. To identify the spatial scales most relevant for MJO forecasting, we conduct spectral analysis of the latent feature space and find that large-scale patterns dominate the learned signals. Additional experiments show that models using only large-scale signals as the input have the same skills as those using all the scales, supporting the large-scale view of the MJO. Meanwhile, we find that small-scale signals remain informative: surprisingly, models using only small-scale input can still produce skillful forecasts up to 1-2 weeks ahead. We show that this is achieved by reconstructing the large-scale envelope of the small-scale activities, which aligns with the multi-scale view of the MJO. Altogether, our findings support that large-scale patterns--whether directly included or reconstructed--may be the primary source of MJO predictability.},
-	urldate = {2026-01-20},
-	publisher = {arXiv},
-	author = {Yao, Lin and Yang, Da and Duncan, James P. C. and Chattopadhyay, Ashesh and Hassanzadeh, Pedram and Bhimji, Wahid and Yu, Bin},
-	month = oct,
-	year = {2025},
-	note = {arXiv:2510.03582 [physics]},
-	keywords = {Physics - Atmospheric and Oceanic Physics, Computer Science - Artificial Intelligence},
-	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/8VAYZWNR/Yao et al. - 2025 - Deep learning the sources of MJO predictability a spectral view of learned features.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/UTSUSKSN/2510.html:text/html},
-}
-
-@misc{sun_predicting_2026,
-	title = {Predicting {Beyond} {Training} {Data} via {Extrapolation} versus {Translocation}: {AI} {Weather} {Models} and {Dubai}'s {Unprecedented} 2024 {Rainfall}},
-	shorttitle = {Predicting {Beyond} {Training} {Data} via {Extrapolation} versus {Translocation}},
-	url = {http://arxiv.org/abs/2505.10241},
-	doi = {10.48550/arXiv.2505.10241},
-	abstract = {Artificial intelligence (AI) models have transformed weather forecasting, but their skill for gray swan extremes is unclear. Here, we analyze GraphCast, AIFS, and FuXi forecasts of the unprecedented 2024 Dubai storm, which had twice the training set's highest rainfall in that region. Remarkably, GraphCast and AIFS accurately forecast this event up to 8 days ahead. FuXi forecasts the event, but underestimates the rainfall. Fine-tuning and receptive field analyses suggest that these models' success stems from "translocation": learning from comparable/stronger dynamically similar events in other regions during training. Evidence of "extrapolation" (learning from weaker events) is not found. Even events within the global distribution's tail are poorly forecasted, which is not just due to data imbalance (generalization error) but also spectral bias (optimization error). These findings demonstrate the potential of AI models to forecast regional gray swans and the opportunity to improve them through understanding the mechanisms behind their successes/limitations.},
-	urldate = {2026-01-20},
-	publisher = {arXiv},
-	author = {Sun, Y. Qiang and Hassanzadeh, Pedram and Shaw, Tiffany and Pahlavan, Hamid A. and Marchakitus, Adam},
-	month = jan,
-	year = {2026},
-	note = {arXiv:2505.10241 [physics]},
-	keywords = {Physics - Atmospheric and Oceanic Physics},
-	file = {Preprint PDF:/Users/marchakitus/Zotero/storage/E5IPXCGE/Sun et al. - 2025 - Predicting Beyond Training Data via Extrapolation versus Translocation AI Weather Models and Dubai'.pdf:application/pdf;Preprint PDF:/Users/marchakitus/Zotero/storage/HEKBGH9X/Sun et al. - 2026 - Predicting Beyond Training Data via Extrapolation versus Translocation AI Weather Models and Dubai'.pdf:application/pdf;Snapshot:/Users/marchakitus/Zotero/storage/T74TLTDP/2505.html:text/html},
 }
