@@ -11,7 +11,7 @@ selected_papers: true
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-<div style="float: right; margin-bottom: 20px;">
+<div style="float: right; margin-bottom: 20px; width: 40%;">
     {% include bib_search.liquid %}
 </div>
 
