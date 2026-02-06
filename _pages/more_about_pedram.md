@@ -12,6 +12,7 @@ Co-editor, [Weather and Climate Dynamics](https://www.weather-climate-dynamics.n
 Editorial Board, [Environmental Research: Climate](https://publishingsupport.iopscience.iop.org/journals/environmental-research-climate/about-environmental-research-climate/)
 
 Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu)  
+LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
 CV: [Hassanzadeh_CV_2022](https://pedram.rice.edu/files/2023/03/Hassanzadeh_CV_2022.pdf)  
