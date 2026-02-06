@@ -10,8 +10,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: pedram.jpg
-    content: about_pedram.md
-    image_circular: false # crops the image to make it circular
+    content: more_about_pedram.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>pedramh@uchicago.edu</p>
+      <p>
 ---
