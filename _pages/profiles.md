@@ -15,28 +15,20 @@ profiles:
     # more_info: >
     #   <p>pedramh@uchicago.edu</p>
   - align: right
-    image: qiang_sun.jpeg
-    content: about_qiang_sun.md
+    image: katie_kowal.jpg
+    content: about_katie_kowal.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: hamid_pahlavan.jpg
-    content: about_hamid_pahlavan.md
+    image: bing_gong.jpeg
+    content: about_bing_gong.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: alex_wikner.jpeg
     content: about_alex_wikner.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: katie_kowal.jpg
-    content: about_katie_kowal.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: rajat_masiwal.jpeg
     content: about_rajat_masiwal.md
-    image_circular: true # crops the image to make it circular
-  - align: right
-    image: bing_gong.jpeg
-    content: about_bing_gong.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: justin_finkle.jpeg
@@ -55,24 +47,13 @@ profiles:
     content: about_katy_rucker.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: lichuan_xu.jpg
-    content: about_lichuan_xu.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: weidong_li.jpg
     content: about_weidong_li.md
-    image_circular: true # crops the image to make it circular
-  - align: right
-    image: pumeng_lyu.jpg
-    content: about_pumeng_lyu.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: zhixing_liu.jpeg
     content: about_zhixing_liu.md
     image_circular: true # crops the image to make it circular
-  - align: right
-    image: antonia_baies.jpeg
-    content: about_antonia_baies.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: adam_marchakitus.jpg
