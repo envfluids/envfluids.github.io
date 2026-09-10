@@ -1,4 +1,4 @@
-# Dr. Pedram Hassanzadeh
+# Prof. Pedram Hassanzadeh
 
 #### _Group Director, Associate Professor_
 
