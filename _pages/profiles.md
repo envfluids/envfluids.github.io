@@ -39,6 +39,10 @@ profiles:
     content: about_jess_wan.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: jhayron_perez_carrasquilla.jpg
+    content: about_jhayron_perez_carrasquilla.md
+    image_circular: true # crops the image to make it circular
+  - align: right
     image: anna_asch.jpeg
     content: about_anna_asch.md
     image_circular: true # crops the image to make it circular
