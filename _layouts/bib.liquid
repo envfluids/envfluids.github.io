@@ -78,7 +78,7 @@
           {% endfor %}
         {%- endif -%}
 
-        {% assign author_is_group_member = false %}
+        {%- assign author_is_group_member = false -%}
         {% if site.data.group_members[clean_last_name] %}
           {%- for member in site.data.group_members[clean_last_name] -%}
             {% if member.firstname contains author.first %}

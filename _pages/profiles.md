@@ -19,7 +19,7 @@ profiles:
     content: about_katie_kowal.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: bing_gong.jpeg
+    image: bing_gong.jpg
     content: about_bing_gong.md
     image_circular: true # crops the image to make it circular
   - align: right
@@ -27,7 +27,7 @@ profiles:
     content: about_alex_wikner.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: rajat_masiwal.jpeg
+    image: rajat_masiwal.jpg
     content: about_rajat_masiwal.md
     image_circular: true # crops the image to make it circular
   - align: right
@@ -41,6 +41,10 @@ profiles:
   - align: right
     image: jhayron_perez_carrasquilla.jpg
     content: about_jhayron_perez_carrasquilla.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: lualawi_mareshet_admasu.png
+    content: about_lualawi_mareshet_admasu.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: anna_asch.jpeg
