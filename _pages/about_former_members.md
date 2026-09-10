@@ -57,6 +57,10 @@ MS student (2022-2024)
 Thesis: Explainable transfer learning for turbulence closure modeling  
 Next position: PhD student at UC Santa Cruz
 
+**Lichuan Xu**  
+MS student (2024-2026)  
+Thesis: Interpretation of convolutional autoencoders as a dimension reduction tool for 2D turbulence 
+
 **Adam Subel**  
 Undergraduate researcher (2018-2021), Rice MECH/CAAM undergraduate student  
 Next position: PhD student at Courant Institute (NYU). While a student at Rice, Adam won an NSF GRP Fellowship and received the Distinguished Research Excellence Award from the Rice Engineering Alumni.
