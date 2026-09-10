@@ -30,29 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/positions/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "news-check-out-the-paper-led-by-research-scientist-dr-qiang-sun-titled-can-ai-weather-models-predict-out-of-distribution-gray-swan-tropical-cyclones-published-in-pnas-the-paper-presents-controlled-experiments-showing-that-an-ai-weather-model-cannot-forecast-gray-swan-tropical-cyclones-those-stronger-than-any-the-ai-model-had-seen-in-the-training-set-i-e-ai-model-cannot-extrapolate-however-the-ai-model-shows-the-remarkable-ability-to-learn-from-strong-storms-in-one-ocean-basin-and-forecast-them-in-another-i-e-it-can-translocate-the-results-have-important-implications-for-the-current-ai-weather-models-and-climate-emulators-the-paper-is-highlighted-in-pnas-podcast-gizmodo-and-uchicago-news",
+        },{id: "news-check-out-the-paper-led-by-research-scientist-dr-qiang-sun-titled-can-ai-weather-models-predict-out-of-distribution-gray-swan-tropical-cyclones-published-in-pnas-the-paper-presents-controlled-experiments-showing-that-an-ai-weather-model-cannot-forecast-gray-swan-tropical-cyclones-those-stronger-than-any-the-ai-model-had-seen-in-the-training-set-i-e-ai-model-cannot-extrapolate-however-the-ai-model-shows-the-remarkable-ability-to-learn-from-strong-storms-in-one-ocean-basin-and-forecast-them-in-another-i-e-it-can-translocate-the-results-have-important-implications-for-the-current-ai-weather-models-and-climate-emulators-the-paper-is-highlighted-in-pnas-podcast-gizmodo-and-uchicago-news",
           title: 'Check out the paper led by research scientist Dr. Qiang Sun titled “Can...',
           description: "",
           section: "News",},{id: "news-check-out-the-paper-led-by-phd-student-karan-jakhar-titled-analytical-and-ai-discovered-stable-accurate-and-generalizable-subgrid-scale-closure-for-geophysical-turbulence-published-in-prl-the-paper-shows-that-ai-specifically-techniques-that-can-discover-equations-from-data-can-identify-new-closure-models-for-turbulence-that-are-accurate-and-stable-and-work-for-unseen-flows-but-only-after-physics-constraints-are-included-in-the-discovery-the-paper-also-shows-that-guided-by-the-ai-discovery-this-closure-could-be-derived-analytically-the-results-provide-an-example-of-ai-accelerating-scientific-discovery-the-paper-is-highlighted-by-aps-editors-and-by-uchicago-news",
