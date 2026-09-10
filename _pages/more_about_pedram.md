@@ -9,11 +9,10 @@ Director: [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/re
 Co-Director: [Human-centered Weather Forecasts Initiative](https://humancenteredforecasts.climate.uchicago.edu/), Institute for Climate and Sustainable Growth
 
 Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AAAS journal)  
-Chair, [Mathematics of Planet Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM) 
-
+Chair, [Mathematics of Planet Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM)
 
 Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu)  
-Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en)   
+Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en)  
 LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
@@ -52,13 +51,15 @@ CV: [Updated April 2026](https://uchicago.box.com/s/k6kzxykoyp467aeil8w866mt5c81
 - International Graduate Student Award, University of Waterloo, 2005–2007
 
 ### Current Editorial Appointment and Services:
-- Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AAAS journal)  
-- Chair, [Mathematics of Planets Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM) 
+
+- Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AAAS journal)
+- Chair, [Mathematics of Planets Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM)
 - Member, Joint Advisory Group on AI, World Meteorological Organization
 - Member, Weather Forecasts for Farmers Technical Panel, [AIM for Scale](https://aimforscale.org/leadership-team/)
 
 ### Past Editorial Appointment and Services:
+
 - Member-at-large, Topical Group on the Physics of Climate, American Physical Society
 - Associate Editor, [Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/journal/19422466) (AGU journal)
-- Co-editor, [Weather and Climate Dynamics](https://www.weather-climate-dynamics.net/) (EGU journal)  
+- Co-editor, [Weather and Climate Dynamics](https://www.weather-climate-dynamics.net/) (EGU journal)
 - Editorial Board, [Environmental Research: Climate](https://publishingsupport.iopscience.iop.org/journals/environmental-research-climate/about-environmental-research-climate/)
