@@ -67,20 +67,20 @@ profiles:
     content: about_tina_wang.md
     image_circular: true # crops the image to make it circular
   - align: right
-    image: mauricio_ortiz.jpeg
-    content: about_mauricio_ortiz.md
-    image_circular: true # crops the image to make it circular
-  - align: right
-    image: madyson_miller.png
-    content: about_madyson_miller.md
-    image_circular: true # crops the image to make it circular
-  - align: right
     image: adam_marchakitus.jpg
     content: about_adam_marchakitus.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: daniel_boscu.jpg
     content: about_daniel_boscu.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: mauricio_ortiz.jpeg
+    content: about_mauricio_ortiz.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: madyson_miller.png
+    content: about_madyson_miller.md
     image_circular: true # crops the image to make it circular
   - align: right
     content: about_former_members.md
