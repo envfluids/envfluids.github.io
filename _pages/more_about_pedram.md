@@ -50,14 +50,14 @@ CV: [Updated April 2026](https://uchicago.box.com/s/k6kzxykoyp467aeil8w866mt5c81
 - Jonathan Laitone Memorial Scholarship, ME Department, UC Berkeley, 2009
 - International Graduate Student Award, University of Waterloo, 2005–2007
 
-### Current Editorial Appointment and Services:
+### Current Editorial Appointments and Services:
 
 - Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AAAS journal)
 - Chair, [Mathematics of Planets Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM)
 - Member, Joint Advisory Group on AI, World Meteorological Organization
 - Member, Weather Forecasts for Farmers Technical Panel, [AIM for Scale](https://aimforscale.org/leadership-team/)
 
-### Past Editorial Appointment and Services:
+### Past Editorial Appointments and Services:
 
 - Member-at-large, Topical Group on the Physics of Climate, American Physical Society
 - Associate Editor, [Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/journal/19422466) (AGU journal)
