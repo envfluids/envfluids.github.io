@@ -1,7 +1,7 @@
 # Former Members
 
 **Prof. Y. Qiang Sun**  
-Postdoctoral fellow and research scientist (Fall 2022-Summer 2026)    
+Postdoctoral fellow and research scientist (Fall 2022-Summer 2026)  
 Next position: Associate Professor of Atmospheric Sciences, Nanjing University
 
 **Prof. Ashesh Chattopadhyay**  
@@ -55,7 +55,7 @@ Next position: USAF pilot
 **Moein Darman**  
 MS student (Fall 2022-Sumer 2024)  
 Thesis: Explainable transfer learning for turbulence closure modeling  
-Next position: PhD student at UC Santa Cruz 
+Next position: PhD student at UC Santa Cruz
 
 **Adam Subel**  
 Undergraduate researcher (2018-2021), Rice MECH/CAAM undergraduate student  
