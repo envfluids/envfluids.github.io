@@ -7,4 +7,4 @@
 
 Co-advised with Prof. Dorian Abbot
 
-University of California, Santa Barbara, B.S. Physics, B.S. Statistics 
+University of California, Santa Barbara, B.S. Physics, B.S. Statistics

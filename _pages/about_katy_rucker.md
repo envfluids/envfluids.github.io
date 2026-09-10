@@ -2,7 +2,7 @@
 
 ##### _PhD Student (Geophysical Sciences)_
 
-[krucker01@uchicago.edu](mailto:krucker01@uchicago.edu)  
+[krucker01@uchicago.edu](mailto:krucker01@uchicago.edu)
 
 Co-advised with Prof. Tiffany Sahw
 
