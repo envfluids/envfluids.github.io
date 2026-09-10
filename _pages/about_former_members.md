@@ -1,11 +1,11 @@
 # Former Members
 
 **Prof. Y. Qiang Sun**  
-Postdoctoral fellow and research scientist (Fall 2022-Summer 2026)  
+Postdoctoral fellow and research scientist (2022-2026)  
 Next position: Associate Professor of Atmospheric Sciences, Nanjing University
 
 **Prof. Ashesh Chattopadhyay**  
-PhD student (Fall 2017-Fall 2022)  
+PhD student (2017-2022)  
 Thesis: Theoretical and applied deep learning for turbulence  
 Next position: Assistant Professor of Applied Math, UC Santa Cruz
 
@@ -18,12 +18,12 @@ Postdoctoral fellow (2017-2018)
 Next position: Assistant Professor of Earth, Environmental & Planetary Sciences, Purdue University
 
 **Dr. Ebrahim Nabizadeh**  
-PhD student (Fall 2021-Fall 2022)  
+PhD student (2021-2022)  
 Thesis: Variability and dynamics of atmospheric blocking events under climate change  
 Next position: ML scientist at Verisk
 
 **Dr. Karan Jakhar**  
-PhD student (Winter 2021-Summer 2025)  
+PhD student (2021-2025)  
 Thesis: Equation eiscovery and deep Learning for geophysical turbulence  
 Next position: AI+weather research Scientict at Pravah
 
@@ -48,12 +48,12 @@ Postdoctoral fellow (2021-2023)
 Next position: scientist at LMD, IPSL
 
 **David Lee**  
-MS student (Fall 2018-Spring 2020)  
+MS student (2018-2020)  
 Thesis: Reduced-order modeling of turbulent plane Couette flow using the Green’s function method and fluctuation-dissipation theorem  
 Next position: USAF pilot
 
 **Moein Darman**  
-MS student (Fall 2022-Sumer 2024)  
+MS student (2022-2024)  
 Thesis: Explainable transfer learning for turbulence closure modeling  
 Next position: PhD student at UC Santa Cruz
 
