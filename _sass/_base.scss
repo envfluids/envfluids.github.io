@@ -720,7 +720,8 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
+    font-weight: bold;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -781,6 +782,10 @@ footer.sticky-bottom {
           font-style: normal;
         }
 
+        > span.group-member {
+          text-decoration: underline;
+        }
+
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
@@ -810,6 +815,18 @@ footer.sticky-bottom {
         }
         a.award.btn {
           border-color: var(--global-highlight-color);
+        }
+        .press-label {
+          font-size: 0.75rem;
+          font-style: italic;
+          color: var(--global-text-color-light);
+          margin-left: 0.25rem;
+          margin-right: 0.15rem;
+          vertical-align: middle;
+        }
+        a.feature-callout.btn {
+          color: var(--global-theme-color);
+          border-color: var(--global-theme-color);
         }
       }
 
@@ -1210,7 +1227,8 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-newsletter-bg-color);
   border: 1px solid var(--global-newsletter-text-color);
   outline: none;
-  margin: 0px 10px 0px 0px;
+  display: block;
+  margin: 0px 0px 0px auto;
   width: 100%;
   max-width: 350px;
   min-width: 100px;

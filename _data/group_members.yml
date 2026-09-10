@@ -1,0 +1,97 @@
+# Group members (current and former) whose names should be underlined in the publications list.
+# Keyed by lowercase last name. Each entry has a list of accepted first name strings that
+# must exactly match how the name appears in the .bib file (e.g. "Hamid A." not just "Hamid").
+#
+# To add a new member: add their last name (lowercase) as a key and list every first-name
+# variant that appears in papers.bib (full name, initials, etc.).
+
+# ── Current members ─────────────────────────────────────────────────────────
+
+"hassanzadeh":
+  - firstname: ["Pedram", "P."]
+
+"marchakitus":
+  - firstname: ["Adam", "A."]
+
+"wikner":
+  - firstname: ["Alex", "Alexander", "A."]
+
+"asch":
+  - firstname: ["Anna", "A."]
+
+"baies":
+  - firstname: ["Antonia", "A."]
+
+"gong":
+  - firstname: ["Bing", "B."]
+
+"pahlavan":
+  - firstname: ["Hamid", "Hamid A.", "H.", "H. A."]
+
+"wan":
+  - firstname: ["Jess", "J."]
+
+"finkle":
+  - firstname: ["Justin", "J."]
+
+"kowal":
+  - firstname: ["Katie", "Katherine", "K."]
+
+"rucker":
+  - firstname: ["Katy", "Katharine", "K."]
+
+"xu":
+  - firstname: ["Lichuan"]
+
+"lyu":
+  - firstname: ["Pumeng", "P."]
+
+"sun":
+  - firstname: ["Y. Qiang", "Qiang", "Y. Q.", "Y.Q."]
+
+"masiwal":
+  - firstname: ["Rajat", "R."]
+
+"li":
+  - firstname: ["Weidong"]
+
+"liu":
+  - firstname: ["Zhixing"]
+
+# ── Former members ───────────────────────────────────────────────────────────
+
+"chattopadhyay":
+  - firstname: ["Ashesh", "A."]
+
+"guan":
+  - firstname: ["Yifei", "Y."]
+
+"nabizadeh":
+  - firstname: ["Ebrahim", "E."]
+
+"jakhar":
+  - firstname: ["Karan", "K."]
+
+"lubis":
+  - firstname: ["Sandro W.", "Sandro", "S.", "S. W."]
+
+"mojgani":
+  - firstname: ["Rambod", "R."]
+
+"khodkar":
+  - firstname: ["Amin", "M. A.", "M.A."]
+
+"gillmann":
+  - firstname: ["Cedric", "C."]
+
+"maurice":
+  - firstname: ["Maxime", "M."]
+
+"darman":
+  - firstname: ["Moein", "M."]
+
+"subel":
+  - firstname: ["Adam", "A."]
+
+"wang":
+  - firstname: ["Lei"]

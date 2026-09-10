@@ -54,10 +54,21 @@ profiles:
     image: zhixing_liu.jpeg
     content: about_zhixing_liu.md
     image_circular: true # crops the image to make it circular
+  - align: right
+    image: tina_wang.jpg
+    content: about_tina_wang.md
     image_circular: true # crops the image to make it circular
   - align: right
     image: adam_marchakitus.jpg
     content: about_adam_marchakitus.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: madyson_miller.png
+    content: about_madyson_miller.md
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: daniel_boscu.jpg
+    content: about_daniel_boscu.md
     image_circular: true # crops the image to make it circular
   - align: right
     content: about_former_members.md
