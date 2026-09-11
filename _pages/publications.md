@@ -40,6 +40,12 @@ _styles: >
 {% endif %}
 
 <div class="publications">
+  <h2 class="bibliography">Submitted</h2>
+  {% bibliography -f submitted --group_by none %}
+</div>
+
+
+<div class="publications">
 
 {% bibliography %}
 

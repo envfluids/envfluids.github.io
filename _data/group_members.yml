@@ -16,6 +16,9 @@
 "wikner":
   - firstname: ["Alex", "Alexander", "A."]
 
+"finkel":
+  - firstname: ["Justin", "J."]  
+
 "asch":
   - firstname: ["Anna", "A."]
 
@@ -31,8 +34,6 @@
 "wan":
   - firstname: ["Jess", "J."]
 
-"finkle":
-  - firstname: ["Justin", "J."]
 
 "kowal":
   - firstname: ["Katie", "Katherine", "K."]
@@ -95,3 +96,9 @@
 
 "wang":
   - firstname: ["Lei"]
+
+"wang":
+  - firstname: ["Jiangdi", "J."]
+
+"Patel":
+  - firstname: ["Dhruvit", "D."]

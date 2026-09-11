@@ -25,11 +25,15 @@ Next position: ML scientist at Verisk
 **Dr. Karan Jakhar**  
 PhD student (2021-2025)  
 Thesis: Equation eiscovery and deep Learning for geophysical turbulence  
-Next position: AI+weather research Scientict at Pravah
+Next position: AI+weather research scientict at Pravah
 
 **Dr. Sandro Lubis**  
 Postdoctoral fellow (2019-2022)  
 Next position: Research scientist, Pacific Northwest National Lab (PNNL)
+
+**Dr. Dhruvit Patel**
+NSF Postdoctoral fellow (2024-2025)  
+Next position: Founding research scientist at Silurian AI
 
 **Dr. Rambod Mojgani**  
 Postdoctoral fellow (2021-2024)  
