@@ -1,4 +1,4 @@
-# Dr. Justin Finkle
+# Dr. Justin Finkel
 
 ##### _AI for Climate DSI Postdoctoral Fellow_
 
