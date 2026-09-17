@@ -12,7 +12,7 @@ Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AA
 Chair, [Mathematics of Planet Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM)
 
 Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu) \
-*If your email concerns scheduling or an urgent matter, please CC [ortizriomalo@uchicago.edu](mailto:ortizriomalo@uchicago.edu). For emails about the AICE or HCWF initiatives, please CC [madysonmiller@uchicago.edu](mailto:madysonmiller@uchicago.edu)  
+*_If your email concerns scheduling or an urgent matter, please CC_ [ortizriomalo@uchicago.edu](mailto:ortizriomalo@uchicago.edu). _For emails about the AICE or HCWF initiatives, please CC_ [madysonmiller@uchicago.edu](mailto:madysonmiller@uchicago.edu)  
 Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en)  
 LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
