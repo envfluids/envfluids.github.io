@@ -44,7 +44,6 @@ _styles: >
   {% bibliography -f submitted --group_by none %}
 </div>
 
-
 <div class="publications">
 
 {% bibliography %}
