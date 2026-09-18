@@ -63,7 +63,7 @@ Next position: PhD student at UC Santa Cruz
 
 **Lichuan Xu**  
 MS student (2024-2026)  
-Thesis: Interpretation of convolutional autoencoders as a dimension reduction tool for 2D turbulence 
+Thesis: Interpretation of convolutional autoencoders as a dimension reduction tool for 2D turbulence
 
 **Adam Subel**  
 Undergraduate researcher (2018-2021), Rice MECH/CAAM undergraduate student  
