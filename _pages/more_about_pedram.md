@@ -17,7 +17,7 @@ Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o
 LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
-CV: [Updated April 2026](https://uchicago.box.com/s/k6kzxykoyp467aeil8w866mt5c8160c4)  
+CV: [Updated September 2026](/assets/pdf/CV_Hassanzadeh_Sep2026.pdf)  
 [Math Genealogy of our group](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=173328)
 
 ### Education:
