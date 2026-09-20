@@ -17,7 +17,7 @@ Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o
 LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
-CV: [Updated September 2026](/assets/pdf/CV_Hassanzadeh_Sep2026.pdf)  
+CV: [Updated September 2026](https://uchicago.box.com/s/xo4ptz8xlaiqw09a5fwpas4zo626pm3b)  
 [Math Genealogy of our group](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=173328)
 
 ### Education:
@@ -29,7 +29,7 @@ CV: [Updated September 2026](/assets/pdf/CV_Hassanzadeh_Sep2026.pdf)
 - MS: Mechanical Engineering, University of Waterloo, 2007
 - BS: Mechanical Engineering, University of Tehran, 2005
 
-### Appointments:
+### Academic Appointments:
 
 - Associate Professor (with tenure), University of Chicago, 2024-present
 - Associate Professor (with tenure), Rice University, 2023
