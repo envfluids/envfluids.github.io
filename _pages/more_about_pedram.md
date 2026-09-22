@@ -2,22 +2,22 @@
 
 #### _Group Director, Associate Professor_
 
-[Department of Geophysical Sciences](https://geosci.uchicago.edu/people/pedram-hassanzadeh/) \
-[Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/people/profile/pedram-hassanzadeh/) \
+[Department of Geophysical Sciences](https://geosci.uchicago.edu/people/pedram-hassanzadeh/)  
+[Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/people/profile/pedram-hassanzadeh/)  
 [Committee on Data Science](https://codas.uchicago.edu/people/pedram-hassanzadeh/)  
-Director: [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/research/aice-ai-for-climate/), Data Science Institute and Institute for Climate and Sustainable Growth \
+Director: [AI for Climate (AICE) Initiative](https://datascience.uchicago.edu/research/aice-ai-for-climate/), Data Science Institute and Institute for Climate and Sustainable Growth  
 Co-Director: [Human-centered Weather Forecasts Initiative](https://humancenteredforecasts.climate.uchicago.edu/), Institute for Climate and Sustainable Growth
 
 Associate Editor, [Science Advances](https://www.science.org/journal/sciadv) (AAAS journal)  
 Chair, [Mathematics of Planet Earth Activity Group](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/mathematics-of-planet-earth/), Society for Industrial and Applied Mathematics (SIAM)
 
-Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu) \
+Email: [pedramh@uchicago.edu](mailto:pedramh@uchicago.edu)  
 *If your email concerns scheduling or an urgent matter, please CC [ortizriomalo@uchicago.edu](mailto:ortizriomalo@uchicago.edu). For emails about the AICE or HCWF initiatives, please CC [madysonmiller@uchicago.edu](mailto:madysonmiller@uchicago.edu)  
 Google scholar: [Pedram Hassanzadeh](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en)  
 LinkedIn: [Pedram Hassanzadeh](https://www.linkedin.com/in/pedram-hassanzadeh-12223910/)  
 Twitter: [@turbulentjet](https://twitter.com/turbulentjet)
 
-CV: [Updated September 2026](https://uchicago.box.com/s/xo4ptz8xlaiqw09a5fwpas4zo626pm3b)  
+CV: [Updated in September2026](https://uchicago.box.com/s/xo4ptz8xlaiqw09a5fwpas4zo626pm3b)  
 [Math Genealogy of our group](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=173328)
 
 ### Education:
