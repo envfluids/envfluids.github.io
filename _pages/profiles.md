@@ -71,6 +71,10 @@ profiles:
     content: about_adam_marchakitus.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: jack_zweifel.jpeg
+    content: about_jack_zweifel.md
+    image_circular: true # crops the image to make it circular
+  - align: right
     image: daniel_boscu.jpg
     content: about_daniel_boscu.md
     image_circular: true # crops the image to make it circular
