@@ -79,6 +79,10 @@ profiles:
     content: about_daniel_boscu.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: aryan_kaushal.jpg
+    content: about_aryan_kaushal.md
+    image_circular: true # crops the image to make it circular
+  - align: right
     image: mauricio_ortiz.jpeg
     content: about_mauricio_ortiz.md
     image_circular: true # crops the image to make it circular
