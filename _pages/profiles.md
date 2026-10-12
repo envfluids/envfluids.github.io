@@ -75,6 +75,10 @@ profiles:
     content: about_jack_zweifel.md
     image_circular: true # crops the image to make it circular
   - align: right
+    image: panchali_choudhary.JPG
+    content: about_panchali_choudhary.md
+    image_circular: true # crops the image to make it circular
+  - align: right
     image: daniel_boscu.jpg
     content: about_daniel_boscu.md
     image_circular: true # crops the image to make it circular
