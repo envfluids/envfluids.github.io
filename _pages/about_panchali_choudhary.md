@@ -2,4 +2,6 @@
 
 ##### _Research Assistant_
 
-University of Chicago, B.A. Economics (2026)
+[pchoudhary@uchicago.edu](mailto:pchoudhary@uchicago.edu)
+
+University of Chicago, B.A. Economics
